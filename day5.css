@@ -1,0 +1,22 @@
+/* type selector */
+body{
+    color: cadetblue;
+background-color:darkmagenta;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*class selector*/
+.first{
+    color: black;
+
+}
+.large{
+    font-size: 30px;
+}
+/*id selector*/
+#eklist{
+    background-color: brown;
+}
+a[herf="day5.html"]{
+    color: blue;
+}

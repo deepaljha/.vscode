@@ -1,0 +1,17 @@
+
+body {
+    background-color: rgb(62,43,186);
+}
+.heading{
+    background-color: #c9622a;
+}
+.para{
+    background-color:rgba(51,170,51,0.3) ;
+}
+
+/* dimensions*/
+.box{
+    background-color: aqua;
+    width: 200px;
+    height: 100px; 
+}
