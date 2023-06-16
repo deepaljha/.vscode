@@ -15,20 +15,7 @@ body{
 /*dimensions*/
 .box{
     background-color: aqua;
-    width: 200px;
-    height: 100px;
-    font-size: 2em; /*iem=16px*/
-}
-.heading{
-    width: 40%;
-    height: 100px;
-   /* margin: 100px 300px 30px 50px; /*TRBL*/
-   margin: 100px 200px;/*vertical horizontal*/
-   /*margin: 30px;*/
-   /*margin-left: 50px;*/
-   padding: 30px;
-}
-/* display $ position */
+    width: 200
 
 
 
